@@ -1,19 +1,19 @@
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
-**Backend**  
-`Python` `Java` `PHP`
-
-**Frontend**  
+### Frontend
 `JavaScript` `HTML` `CSS`
 
-**Databases**  
+### Backend 
+`Python` `Java` `PHP`
+
+### Databases
 `SQL` `MySQL` `Oracle`
 
-**DevOps & Version Control**  
+### DevOps & Version Control
 `Git` `Docker` `PowerShell`
 
-**Hardware & Embedded Systems**  
+### Hardware & Embedded Systems
 `Node-RED` `Raspberry Pi`
 
-**Collaboration & Documentation**  
+### Collaboration & Documentation
 `Confluence` `Notion` `LaTeX`
