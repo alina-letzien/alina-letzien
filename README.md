@@ -20,4 +20,4 @@
 
 <br>
 
-![Top Langs](https://github-stats-phi-rouge.vercel.app/api/top-langs/?username=alina-letzien&langs_count=20&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0c1117&border_color=34363A&card_width=1000&theme=dark)
+![Top Langs](https://github-stats-phi-rouge.vercel.app/api/top-langs/?username=alina-letzien&langs_count=20&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0c1117&border_color=34363A&card_width=500&theme=dark)
