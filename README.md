@@ -1,10 +1,7 @@
 ## 💻 Tech Stack 
 
-### Frontend
-`JavaScript` `HTML` `CSS`
-
-### Backend 
-`Python` `Java` `PHP`
+### Backend & Frontend
+`Python` `Java` `PHP` `JavaScript` `HTML` `CSS`
 
 ### Databases
 `SQL` `MySQL` `Oracle`
