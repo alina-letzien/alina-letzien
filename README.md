@@ -1,6 +1,6 @@
 # Hello there 👋🏼
 
-🎓 Dual-study student in Applied Computer Science — previously trained as an IT Specialist for System Integration.
+🎓 Applied Computer Science Student — previously trained as an IT Specialist for System Integration.
 
 🎯 Focus: **Backend Development** • **Machine Learning & Computer Vision**
 
