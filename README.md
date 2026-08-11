@@ -2,7 +2,7 @@
 
 🎓 Applied Computer Science Student — previously trained as an IT Specialist for System Integration.
 
-🎯 Focus: **Backend Development** • **Machine Learning & Computer Vision**
+🎯 Focus: Backend Development • Machine Learning & Computer Vision
 
 🌱 Also working across: Web Development • Databases • Mobile Development • DevOps
 
